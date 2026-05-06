@@ -30,3 +30,8 @@ The investigation focuses on identifying the attack type, analyzing abnormal net
 
 ## Outcome
 The investigation determined that the server was experiencing a TCP SYN flood attack designed to overwhelm server resources and disrupt website availability.
+
+## References
+
+- [Cybersecurity Incident Report Template](docs/incident-report-template.pdf)
+- [Wireshark TCP/HTTP Log](docs/wireshark-tcp-http-log.pdf)
